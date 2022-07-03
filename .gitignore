@@ -31,3 +31,5 @@ override.tf.json
 .idea/
 *.iml
 .credencial_aws
+/vm/aws-key
+/vm/aws-key.pub
